@@ -19,10 +19,13 @@
   
 -  💬 Ask me about Sales and Marketing Mangement, Events Management, Social Media Management, KOLs, Campaign Management, Business Developments, Canva, and Community Management.
 
-<p align="left"> <a href="https
+<br />
+
+<p align="left"> 
 - 📫 How to reach me 👋, I'm Meg Cho</h1>
-<h3 
+
 - 📄 Know about my experiences [https://www.canva.com/design/DAGRML7Xbxc/iZxOHTsAP1wbKiBSueYKXw/edit?utm_content=DAGRML7Xbxc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton](https://www.canva.com/design/DAGRML7Xbxc/iZxOHTsAP1wbKiBSueYKXw/edit?utm_content=DAGRML7Xbxc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
