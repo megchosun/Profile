@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Meg Cho</h1>
-<h3 align="center">A dedicatedly seasoned dynamic Marketing Manager, Business Developer, and Social Media Manager</h3>
+<h3 align="center">A dedicatedly seasoned dynamic Marketing Manager, Business Developer, and Social Media Manager (English/Filipio/Chinese/Korean)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=megchosun&label=Profile%20views&color=0e75b6&style=flat" alt="megchosun" /> </p>
 
@@ -15,8 +15,7 @@
 
 - 🤝 I’m looking for help withr, Business Developer, 
 - 👨‍💻 All of my projects are available at [https://docs.google.com/file/d/1PqSVs4swsU9pebWhUFQnfXCPmLeALGF_/edit?usp=docslist_api&filetype=msword](https://docs.google.com/file/d/1PqSVs4swsU9pebWhUFQnfXCPmLeALGF_/edit?usp=docslist_api&filetype=msword)
-
-- 💬 Ask me abouttyle=flat" alt="megchosun" /> </p>
+ /> </p>
 
 <p align="left"> <a href="https
 - 📫 How to reach me 👋, I'm Meg Cho</h1>
