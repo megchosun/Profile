@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Meg Cho</h1>
-<h3 align="center">A dedicatedly seasoned dynamic Marketing Manager, Business Developer, and Social Media Manager (English/Filipio/Chinese/Korean)</h3>
+<h3 align="center">A dedicatedly seasoned dynamic Marketing Manager, Business Developer, and Social Media Manager (English/Filipino/Chinese/Korean)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=megchosun&label=Profile%20views&color=0e75b6&style=flat" alt="megchosun" /> </p>
 
